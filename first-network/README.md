@@ -2,10 +2,10 @@
 
 ### Details
  1. Initial Network (BYFN)
- ..* One orderer
- ..* Two Organizations 
- ....- Org1
- ....- Org2
+ * One orderer
+ * Two Organizations 
+ -- Org1
+ -- Org2
  ..* Two peers each organization
  ....- peer0.org1
  ....- peer1.org1
